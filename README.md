@@ -25,6 +25,7 @@ A Python automation script that monitors product availability on shop.amul.com a
 - Google Chrome installed on your machine.
 
 - An internet connection.
+- Install the required Python packages: pip install selenium webdriver-manager requests
 
 
 
